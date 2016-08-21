@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>blue.png</file>
+        <file>mario.png</file>
+        <file>mylogo.JPG</file>
+        <file>red.png</file>
+        <file>xblue.png</file>
+        <file>xred.png</file>
+        <file>xyellow.png</file>
+        <file>yellow.png</file>
+    </qresource>
+</RCC>
